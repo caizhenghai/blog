@@ -1,0 +1,35 @@
+.blog-c1{
+  float:left;
+  width:800px;
+}
+
+.c1-entry .header h2{
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.c1-entry .header p{
+  color: gray;
+}
+
+.c1-entry .header{
+  border-bottom: 1px solid  #d3d3d3 ;
+}
+.c1-entry .content{
+  font-size: small;
+  border-bottom: 1px solid  #d3d3d3 ;
+}
+
+.homepage{
+  margin-top: 40px;
+}
+
+.homepage h3{
+  font-size: 30px;
+  font-weight: bold;
+  border-bottom: 1px solid  #d3d3d3 ;
+}
+
+.homepage ul{
+  font-size: 10px;
+}

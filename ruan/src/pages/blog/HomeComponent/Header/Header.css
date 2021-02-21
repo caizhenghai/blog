@@ -1,0 +1,30 @@
+.blog-header h1{
+  float:left;
+  margin-top:.9em;
+  font-size:1.8em;
+  color:#567;
+}
+
+.blog-header{
+  border-bottom: 1px solid #d3d3d3;
+  margin: 1em;
+  float: left;
+  height:5em;
+  width:100%
+}
+
+.blog-header .icon{
+  margin-top: 1.4em;
+  float:right;
+  transition: transform 1s;
+}
+.blog-header .search{
+  margin-left:1em;
+  margin-top: .5em;
+  float:right;
+  margin-bottom: .5em;
+}
+
+.blog-header .icon:hover{
+  transform: rotate(180deg);
+}

@@ -1,0 +1,10 @@
+.TimeComponent{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  color: rgb(184, 135, 63);
+  font-size: 1.5em;
+  border-bottom: 2px solid rgb(105, 103, 103);
+  border-top: 2px solid rgb(105, 103, 103);
+}

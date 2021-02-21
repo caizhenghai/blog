@@ -1,0 +1,50 @@
+.comment_in {
+  min-height: 95px;
+  min-width:98%;
+  max-width: 100%;
+	border: 1px solid #bbb;
+	border-radius: 5px;
+	outline: none;
+	padding: 5px;
+	margin: 30px auto;
+	margin-bottom: 5px;
+	white-space: pre-wrap;
+}
+
+.comment_in:focus {
+	border: 1px solid #96A55E;
+}
+
+.comment label {
+	color: #666;
+	font-weight: 600;
+	line-height: 35px;
+}
+
+#name {
+	height: 30px;
+	line-height:30px;
+	width: 100px;
+	font-size: 1em;
+	padding-left: 5px;
+	border-radius: 5px;
+	outline:none;
+	border: 1px solid #bbb;
+}
+
+.submit_btn {
+	height: 35px;
+	color: #fff;
+	width: 60px;
+	border: none;
+	border-radius: 5px;
+	background: #BD250D;
+	outline: none;
+	float: right;
+	cursor: pointer;
+	transition: background 1s ease;
+}
+
+.submit_btn:hover {
+	background: #992210;
+}

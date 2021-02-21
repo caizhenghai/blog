@@ -1,0 +1,70 @@
+.HomeColumnOne{
+  float:left;
+  position: absolute;
+  width:60%;
+  margin-left: 70px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.Route{
+  margin-top: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #f0f5f9;
+  color: rgb(78, 73, 73);
+}
+
+.back-button{
+  margin-right: 20px;
+  margin-left: 2px;
+
+}
+
+.HomeColumnOn .bread-crumb{
+  line-height: 30px;
+  font-size: 30px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-top: 20px;
+}
+
+.BlankBoard{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size:20px;
+  width:90%;
+  height: auto;
+  background-color: #f0f5f9;
+  box-shadow: 5px 0px 0px 0px rgba(0,0,0,.2);
+  padding-top: 2px;
+  padding-left: 30px;
+  padding-bottom: 2px;
+  padding-right: 30px;
+}
+
+
+
+a{
+  text-decoration: none;
+}
+
+ul{
+  margin-left:40px;
+}
+
+li{
+  margin-top: 10px;
+}
+
+h1{
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-size: 5em;
+}
+
+p{
+  width:96%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 1.5em;
+}

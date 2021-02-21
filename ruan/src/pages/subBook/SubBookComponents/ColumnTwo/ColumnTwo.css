@@ -1,0 +1,10 @@
+.HomeColumnTwo{
+  margin-right: 30px;
+  margin-left: 1000px;
+  padding-top: 30px;
+  padding-right:30px;
+  width: 400px;
+  height:200px;
+
+  position: fixed;
+}

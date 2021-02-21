@@ -1,0 +1,28 @@
+.blog-c2{
+  font-size:small;
+  float:right;
+  width:300px;
+
+}
+
+.c2-comment{
+  padding:1em;
+  border-radius: 1em;
+  border:1px solid #d3d3d3;
+}
+
+.c2-comment h2{
+  margin:.4em 0 .2em 0;
+  padding:0 0 .2em 0;
+  color: #000;
+  font-weight: 500;
+  letter-spacing: -0.03em;
+  border-bottom: 1px solid #d3d3d3;
+}
+
+.c2-about{
+  margin-top: 20px;
+  padding:1em;
+  border-radius: 1em;
+  border:1px solid #d3d3d3;
+}
